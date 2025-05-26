@@ -27,4 +27,4 @@
 - 📄 IEEE Published Author (Legal NLP)
 ---
 
-🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/shubhamjagtap17) | 📫 Email: jshubham@umich.edu
+🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/jshubham17/) | 📫 Email: jshubham@umich.edu
