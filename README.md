@@ -21,7 +21,7 @@
 - 🖼️ [**Speech-to-Image Generation using Whisper + Stable Diffusion**](https://github.com/shubham7254/Speech-to-Image-Generation)
   A multimodal pipeline that transforms spoken input into AI-generated visuals  
 
-- 🤖 **AI News Highlights 2025 – Multi-Agent System**  
+- 🤖 [**AI News Highlights 2025 – Multi-Agent System**](https://github.com/shubham7254/AI-News-Highlights-Multi-Agent-System)
   Built a modular AI pipeline that scrapes trending news, summarizes it, generates voiceovers, and auto-publishes YouTube Shorts  
 
 - 📘 [**Legal Document Summarization using Transformers**](https://github.com/shubham7254/Legal-Data-Assistive-Tool-Using-Deep-Learning)  
