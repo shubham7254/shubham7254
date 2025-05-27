@@ -18,7 +18,7 @@
 - 🧠 [**Fake News Detection using DeBERTa-v3 + SHAP**](https://github.com/shubham7254/Legal-Data-Assistive-Tool-Using-Deep-Learning)  
   Transformer-based model for detecting misinformation with token-level explainability  
 
-- 🖼️ **Speech-to-Image Generation using Whisper + Stable Diffusion**  
+- 🖼️ [**Speech-to-Image Generation using Whisper + Stable Diffusion**](https://github.com/shubham7254/Speech-to-Image-Generation)
   A multimodal pipeline that transforms spoken input into AI-generated visuals  
 
 - 🤖 **AI News Highlights 2025 – Multi-Agent System**  
