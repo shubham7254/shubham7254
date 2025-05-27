@@ -26,7 +26,7 @@
 
 - 📘 [**Legal Document Summarization using Transformers**](https://github.com/shubham7254/Legal-Data-Assistive-Tool-Using-Deep-Learning)  
   Abstractive summarization of legal texts using transformers
-  published in IEEE  [Legal Data Assistive Tool Using Deep-Learning](https://ieeexplore.ieee.org/document/10176784)
+  
 
 - 🐔 [**Chicken Disease Classification using CNN**](https://github.com/shubham7254/Chicken-Disease-Classification-)  
   Image-based poultry disease detection using a lightweight CNN classifier  
@@ -40,7 +40,7 @@
 ---
 
 ### 🏆 Achievements
-- 📄 **IEEE Published Author** – Legal NLP & Transformer-based Summarization
+- 📄 **Research Paper** – [Legal Data Assistive Tool Using Deep-Learning](https://ieeexplore.ieee.org/document/10176784)
 
 ---
 
