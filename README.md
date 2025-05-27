@@ -1,30 +1,52 @@
-### Hello there! 👋 I'm Shubham Jagtap
+### 👋 Hello! I'm Shubham Jagtap
 
-🎓 MS in Artificial Intelligence @ UM-Dearborn  
-🔍 Passionate about Computer Vision, Medical AI, and Deep Learning  
-💼 Open to ML/DL Internships | AI + Healthcare | Autonomous Driving
+🎓 Graduate Student in Artificial Intelligence @ University of Michigan-Dearborn  
+🔬 Focused on Computer Vision, Medical Imaging, and Deep Learning  
+🚀 Open to ML/DL Internships | AI for Healthcare | Autonomous Systems | Applied AI
 
 ---
 
-### 🔧 Technologies I Use
-- Python | PyTorch | TensorFlow | FastAPI | Docker | Git
-- OpenCV | HuggingFace | MONAI | Grad-CAM | SHAP | ONNX
-- AWS | S3 | Lambda | GitHub Actions
-- HTML | CSS | JS | Bootstrap | React
+### 🛠️ Technologies I Work With
+- **Languages & Frameworks:** Python, TensorFlow, PyTorch, FastAPI, HTML, CSS, JS, React, Bootstrap  
+- **CV & DL Libraries:** OpenCV, Hugging Face, MONAI, Grad-CAM, SHAP, ONNX  
+- **DevOps & Cloud:** Docker, AWS (S3, Lambda), GitHub Actions  
+- **Other Tools:** Git, NumPy, Pandas, Matplotlib, Scikit-learn
 
 ---
 
 ### 📌 Featured Projects
-- 🧠 [Fake News Detection with DeBERTa & SHAP](https://github.com/shubham7254/Legal-Data-Assistive-Tool-Using-Deep-Learning)
-- 🩺 [Heart Image 3D Segmentation (Cryo-ET)](link)
-- 🦠 [Pneumonia Detection from X-rays](link)
-- 📘 [Legal Document Summarization using Transformers](https://github.com/shubham7254/Legal-Data-Assistive-Tool-Using-Deep-Learning)
-- 🐔 [Chicken Disease Classification using CNN](https://github.com/shubham7254/Chicken-Disease-Classification-)
+- 🧠 [**Fake News Detection using DeBERTa-v3 + SHAP**](https://github.com/shubham7254/Legal-Data-Assistive-Tool-Using-Deep-Learning)  
+  Transformer-based model for detecting misinformation with token-level explainability  
+
+- 🖼️ **Speech-to-Image Generation using Whisper + Stable Diffusion**  
+  A multimodal pipeline that transforms spoken input into AI-generated visuals  
+
+- 🤖 **AI News Highlights 2025 – Multi-Agent System**  
+  Built a modular AI pipeline that scrapes trending news, summarizes it, generates voiceovers, and auto-publishes YouTube Shorts  
+
+- 📘 [**Legal Document Summarization using Transformers**](https://github.com/shubham7254/Legal-Data-Assistive-Tool-Using-Deep-Learning)  
+  Abstractive summarization of legal texts using DeBERTa-v3; published in IEEE  
+
+- 🐔 [**Chicken Disease Classification using CNN**](https://github.com/shubham7254/Chicken-Disease-Classification-)  
+  Image-based poultry disease detection using a lightweight CNN classifier  
+
+- 🩺 **Heart Image Segmentation (Cryo-ET)** *(Coming Soon)*  
+  3D segmentation of volumetric MRI data using a U-Net based approach  
+
+- 🌫️ **Pneumonia Detection from Chest X-rays** *(Coming Soon)*  
+  CNN + Grad-CAM heatmap visualization for interpretable diagnosis support  
 
 ---
 
 ### 🏆 Achievements
-- 📄 IEEE Published Author (Legal NLP)
+- 📄 **IEEE Published Author** – Legal NLP & Transformer-based Summarization
+
 ---
 
-🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/jshubham17/) | 📫 Email: jshubham@umich.edu
+### 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/jshubham17/)
+- 📧 Email: jshubham@umich.edu
+
+---
+
+> *“I love turning ideas into prototypes and building scalable, explainable AI systems that solve meaningful problems.”*
