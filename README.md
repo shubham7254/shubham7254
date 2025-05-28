@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Technologies I Work With
-- **Languages & Frameworks:** Python, TensorFlow, PyTorch, FastAPI, HTML, CSS, JS, React, Bootstrap  
+- **Languages & Frameworks:** Python, TensorFlow, PyTorch, FastAPI, HTML, CSS, JS, React,
 - **CV & DL Libraries:** OpenCV, Hugging Face, MONAI, Grad-CAM, SHAP, ONNX  
 - **DevOps & Cloud:** Docker, AWS (S3, Lambda), GitHub Actions  
 - **Other Tools:** Git, NumPy, Pandas, Matplotlib, Scikit-learn
