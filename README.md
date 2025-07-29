@@ -15,6 +15,12 @@
 ---
 
 ### 📌 Featured Projects
+- 🩺 **Heart Image Segmentation (Cryo-ET)** *(Coming Soon)*  
+  3D segmentation of volumetric MRI data using a U-Net-based approach  
+
+- 🌫️ [**Chest-X-ray-Multi-label-Disease-Classifier-NIH-Datasets**](https://github.com/shubham7254/Chest-X-ray-Multi-label-Disease-Classifier-NIH-Dataset)
+  End-to-end PyTorch pipeline with stratified data splitting, weighted loss, and ResNet-18 for chest X-ray disease detection.
+  
 - 🧠 [**Fake News Detection using DeBERTa-v3 + SHAP**](https://github.com/shubham7254/Legal-Data-Assistive-Tool-Using-Deep-Learning)  
   Transformer-based model for detecting misinformation with token-level explainability  
 
@@ -26,16 +32,6 @@
 
 - 📘 [**Legal Document Summarization using Transformers**](https://github.com/shubham7254/Legal-Data-Assistive-Tool-Using-Deep-Learning)  
   Abstractive summarization of legal texts using transformers
-  
-
-- 🐔 [**Chicken Disease Classification using CNN**](https://github.com/shubham7254/Chicken-Disease-Classification-)  
-  Image-based poultry disease detection using a lightweight CNN classifier  
-
-- 🩺 **Heart Image Segmentation (Cryo-ET)** *(Coming Soon)*  
-  3D segmentation of volumetric MRI data using a U-Net based approach  
-
-- 🌫️ **Pneumonia Detection from Chest X-rays** *(Coming Soon)*  
-  CNN + Grad-CAM heatmap visualization for interpretable diagnosis support  
 
 ---
 
